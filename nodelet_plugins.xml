@@ -1,0 +1,5 @@
+<library path="lib/libInvPendulumSS">
+  <class name="inv_pendulum_ss/InvPendulumSS" type="inv_pendulum_ss::InvPendulumSS" base_class_type="nodelet::Nodelet">
+  <description>Balances an inverted pendulum based on odometry input to a state space controller</description>
+  </class>
+</library>
